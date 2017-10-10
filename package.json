@@ -1,0 +1,9 @@
+{
+  "name": "react-flash",
+  "version": "1.0.0",
+  "description": "A simple self-destructing flash component",
+  "main": "./dist/index.js",
+  "author": "jaretogarato",
+  "license": "MIT",
+  "private": false
+}
